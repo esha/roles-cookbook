@@ -1,8 +1,8 @@
 require 'chefspec'
 require 'chefspec/berkshelf'
-require 'simplecov'
 
 begin
+  require 'simplecov'
   formatters = [SimpleCov::Formatter::HTMLFormatter]
 
   begin
