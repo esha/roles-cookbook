@@ -1,6 +1,8 @@
 esha-roles Cookbook
 ===================
 [![Build Status](https://travis-ci.org/esha/roles-cookbook.svg)](https://travis-ci.org/esha/roles-cookbook)
+[![Code Climate](https://codeclimate.com/github/esha/roles-cookbook/badges/gpa.svg)](https://codeclimate.com/github/esha/roles-cookbook)
+[![Coverage Status](https://coveralls.io/repos/esha/roles-cookbook/badge.svg)](https://coveralls.io/r/esha/roles-cookbook)
 
 Configures organization-specific roles.
 
