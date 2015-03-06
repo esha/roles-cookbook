@@ -1,5 +1,6 @@
 esha-roles Cookbook
 ===================
+[![Build Status](https://travis-ci.org/esha/roles-cookbook.svg)](https://travis-ci.org/esha/roles-cookbook)
 
 Configures organization-specific roles.
 
