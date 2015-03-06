@@ -4,5 +4,8 @@ AllCops:
     - '.kitchen/*'
     - 'Guardfile'
 
+LineLength:
+  Enabled: false
+
 Style/SingleSpaceBeforeFirstArg:
   Enabled: false
