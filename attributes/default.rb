@@ -1,5 +1,5 @@
 #
-# Cookbook Name:: roles
+# Cookbook Name:: esha-roles
 # Attribute:: default
 #
 
