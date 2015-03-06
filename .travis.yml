@@ -5,3 +5,7 @@ rvm:
 script:
   - bundle exec rake style
   - bundle exec rake spec
+
+addons:
+  code_climate:
+    repo_token: 1a80401de0169386f779bebe0959c7eef0d0d13d15ea81fc4e2cdc3747c20fa7
