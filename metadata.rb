@@ -10,6 +10,7 @@ recipe 'esha-roles::base',   'Provides a base configuration for all systems'
 recipe 'esha-roles::client', 'Configures a Chef client system'
 
 depends 'apt',         '~> 2.6'
+depends 'cacert',      '~> 0.2'
 depends 'chef-client', '~> 4.2'
 depends 'ntp',         '~> 1.7'
 depends 'ohai',        '~> 2.0'

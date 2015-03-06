@@ -20,6 +20,10 @@ describe 'esha-roles::base' do
       expect(chef_run).to include_recipe('apt')
     end
 
+    it 'includes cacert recipe' do
+      expect(chef_run).to include_recipe('cacert')
+    end
+
     it 'includes ntp recipe' do
       expect(chef_run).to include_recipe('ntp')
     end
